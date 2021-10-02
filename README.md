@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Machine Learning and data science.
 - 🌱 I’m currently pursuing ...B-Tech in cse in IIIT BHhubaneswar.
 - 📫 How to reach me ...rohitbehera518@gmail.com
-                        https://www.linkedin.com/in/rohitkumarbehera/
+                        www.linkedin.com/in/rkb21
 
 <!---
 rohit518/rohit518 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
